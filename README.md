@@ -1,4 +1,5 @@
-# 🤖 AI Agent for Data Cleaning and Preprocessing
+# 🤖 Agentic Data Prep
+### An Autonomous AI-Powered Data Cleaning and Preprocessing System 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.10">
@@ -158,8 +159,8 @@ This project is fully tested and optimized for **Python 3.10**. Here's the compa
 
 #### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Agentic-Data-Prep.git
-cd "Agentic Data Prep"
+git clone https://github.com/prachiipahwa/AgenticDataPrep.git
+cd "AgenticDataPrep"
 ```
 
 #### Step 2: Create Virtual Environment with Python 3.10
@@ -481,7 +482,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Streamlit](https://streamlit.io/) for the beautiful UI components
 
 ---
-
-<p align="center">
-  Made with ❤️ for the Data Science Community
-</p>  
