@@ -1,5 +1,5 @@
 # 🤖 Agentic Data Prep
-### An Autonomous AI-Powered Data Cleaning and Preprocessing System 
+### An AI-Powered Data Cleaning and Preprocessing System 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.10">
